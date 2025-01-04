@@ -21,7 +21,7 @@ Este proyecto es un programa en Java que permite convertir monedas utilizando un
 
    ```bash
    git clone https://github.com/Muro-xd/Conversor-monedas-ALURA.git
-   cd <nombre-del-repositorio>
+   cd <Conversor-monedas-ALURA>
    ```
 
 2. Asegúrate de tener configurado el entorno de desarrollo en Java.
